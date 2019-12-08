@@ -1,0 +1,10 @@
+﻿BMW,330i xDrive,germany,42570
+Audi,A4,germany,44700
+Jeep,Grand Cherokee,USA,32195
+Subaru,Outback,sweden,26345
+Ford,Mustang,USA,26395
+Tesla,Model S,USA,75000
+Ferrari,488 Spider,italy,280900
+Toyota,Camry,japan,24095
+Honda,CR-V,japan,24450
+Land Rover,Discovery,UK,52300
