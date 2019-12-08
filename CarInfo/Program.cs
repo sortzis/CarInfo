@@ -14,7 +14,7 @@ namespace CarInfo
     //by comparing makes, models, and prices
     //Author: Sortzi, Sammi
     //Date Created: 11/30/2019
-    //Last Modified: 12/1/2019
+    //Last Modified: 12/8/2019
     //************************************
 
     class Program
@@ -730,6 +730,10 @@ namespace CarInfo
             Console.Clear();
             Console.WriteLine();
             Console.WriteLine("\t\tThe Car Shopper");
+            Console.WriteLine();
+            Console.WriteLine("This application was designed to help aid consumers");
+            Console.WriteLine("with car shopping by listing make, model, country of origin");
+            Console.WriteLine("and base model prices with an added filter for country of origin.");
             Console.BackgroundColor = ConsoleColor.DarkCyan;
             Console.ForegroundColor = ConsoleColor.Black;
             Console.WriteLine();
